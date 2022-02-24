@@ -1,0 +1,11 @@
+Notes for Data analysis : PROJECT: TV, HALFTIME SHOWS, AND THE BIG GAME
+
+- Superbowl dataset has 2 columns with null values: qb_winner_2 , qb_loser_2
+- tv dataset has 3 columns with null values : total_us_viewers,  rating_18_49, share_18_49
+- halftime_musicians dataset has 1 columns with null values : num_songs
+- Plot distribution of super_bowl combined_points
+- Plot distribution of super_bowl difference_points
+
+
+
+In this notebook, we loaded, cleaned, then explored Super Bowl game, television, and halftime show data. We visualized the distributions of combined points, point differences, and halftime show performances using histograms. We used line plots to see how ad cost increases lagged behind viewership increases. And we discovered that blowouts do appear to lead to a drop in viewers.
